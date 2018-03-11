@@ -1,0 +1,7 @@
+controller\BaseAction.class
+controller\Test.class
+service\UserinfoService.class
+dao\UserinfoDao.class
+entity\Userinfo.class
+service\AllService.class
+dao\AllDao.class
